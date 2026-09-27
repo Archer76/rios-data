@@ -1,0 +1,25 @@
+{
+ "pack": "rios-data",
+ "version": "data-v0.1.0",
+ "snapshot": "2026-09-28T00:10:20",
+ "license": "CC BY-NC-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+ "contains_game_data": false,
+ "items": [
+  {
+   "path": "enemydb.sqlite",
+   "bytes": 20860928,
+   "sha256_16": "d73403e1b2fd23a2",
+   "attribution": "prts.wiki",
+   "what": "敌人图鉴/逐档数值/抗性/技能（分类:敌人）"
+  },
+  {
+   "path": "theresa/tile_info.json",
+   "bytes": 19579,
+   "sha256_16": "824f279b6c838360",
+   "attribution": "theresa.wiki",
+   "what": "地块字典（游戏本体没有这张表）"
+  }
+ ],
+ "built_by": "R.I.O.S. datapack --export"
+}
